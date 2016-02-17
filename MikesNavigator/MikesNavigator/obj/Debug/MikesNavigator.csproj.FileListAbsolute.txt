@@ -1,0 +1,9 @@
+C:\Users\nikit\OneDrive\My Projects\MikesNavigator\MikesNavigator\bin\Debug\MikesNavigator.exe.config
+C:\Users\nikit\OneDrive\My Projects\MikesNavigator\MikesNavigator\obj\Debug\MikesNavigator.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\MikesNavigator\MikesNavigator\obj\Debug\MikesNavigator.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\MikesNavigator\MikesNavigator\obj\Debug\MikesNavigator.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\MikesNavigator\MikesNavigator\obj\Debug\MikesNavigator.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\MikesNavigator\MikesNavigator\bin\Debug\MikesNavigator.exe
+C:\Users\nikit\OneDrive\My Projects\MikesNavigator\MikesNavigator\bin\Debug\MikesNavigator.pdb
+C:\Users\nikit\OneDrive\My Projects\MikesNavigator\MikesNavigator\obj\Debug\MikesNavigator.exe
+C:\Users\nikit\OneDrive\My Projects\MikesNavigator\MikesNavigator\obj\Debug\MikesNavigator.pdb

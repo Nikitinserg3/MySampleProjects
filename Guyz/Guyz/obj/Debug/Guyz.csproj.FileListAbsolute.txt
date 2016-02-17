@@ -1,0 +1,9 @@
+C:\Users\nikit\OneDrive\My Projects\Guyz\Guyz\bin\Debug\Guyz.exe.config
+C:\Users\nikit\OneDrive\My Projects\Guyz\Guyz\bin\Debug\Guyz.exe
+C:\Users\nikit\OneDrive\My Projects\Guyz\Guyz\bin\Debug\Guyz.pdb
+C:\Users\nikit\OneDrive\My Projects\Guyz\Guyz\obj\Debug\Guyz.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\Guyz\Guyz\obj\Debug\Guyz.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\Guyz\Guyz\obj\Debug\Guyz.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\Guyz\Guyz\obj\Debug\Guyz.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\Guyz\Guyz\obj\Debug\Guyz.exe
+C:\Users\nikit\OneDrive\My Projects\Guyz\Guyz\obj\Debug\Guyz.pdb

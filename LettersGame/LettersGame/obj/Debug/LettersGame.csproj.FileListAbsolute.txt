@@ -1,0 +1,9 @@
+C:\Users\nikit\OneDrive\My Projects\LettersGame\LettersGame\bin\Debug\LettersGame.exe.config
+C:\Users\nikit\OneDrive\My Projects\LettersGame\LettersGame\bin\Debug\LettersGame.exe
+C:\Users\nikit\OneDrive\My Projects\LettersGame\LettersGame\bin\Debug\LettersGame.pdb
+C:\Users\nikit\OneDrive\My Projects\LettersGame\LettersGame\obj\Debug\LettersGame.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\LettersGame\LettersGame\obj\Debug\LettersGame.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\LettersGame\LettersGame\obj\Debug\LettersGame.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\LettersGame\LettersGame\obj\Debug\LettersGame.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\LettersGame\LettersGame\obj\Debug\LettersGame.exe
+C:\Users\nikit\OneDrive\My Projects\LettersGame\LettersGame\obj\Debug\LettersGame.pdb

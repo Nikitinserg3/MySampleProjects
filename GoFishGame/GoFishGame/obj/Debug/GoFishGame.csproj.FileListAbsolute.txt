@@ -1,0 +1,8 @@
+C:\Users\nikit\OneDrive\My Projects\GoFishGame\GoFishGame\bin\Debug\GoFishGame.exe.config
+C:\Users\nikit\OneDrive\My Projects\GoFishGame\GoFishGame\bin\Debug\GoFishGame.exe
+C:\Users\nikit\OneDrive\My Projects\GoFishGame\GoFishGame\bin\Debug\GoFishGame.pdb
+C:\Users\nikit\OneDrive\My Projects\GoFishGame\GoFishGame\obj\Debug\GoFishGame.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\GoFishGame\GoFishGame\obj\Debug\GoFishGame.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\GoFishGame\GoFishGame\obj\Debug\GoFishGame.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\GoFishGame\GoFishGame\obj\Debug\GoFishGame.exe
+C:\Users\nikit\OneDrive\My Projects\GoFishGame\GoFishGame\obj\Debug\GoFishGame.pdb

@@ -1,0 +1,9 @@
+C:\Users\nikit\OneDrive\My Projects\First Decktop App\First Decktop App\bin\Debug\First Decktop App.exe.config
+C:\Users\nikit\OneDrive\My Projects\First Decktop App\First Decktop App\bin\Debug\First Decktop App.exe
+C:\Users\nikit\OneDrive\My Projects\First Decktop App\First Decktop App\bin\Debug\First Decktop App.pdb
+C:\Users\nikit\OneDrive\My Projects\First Decktop App\First Decktop App\obj\Debug\First Decktop App.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\First Decktop App\First Decktop App\obj\Debug\First_Decktop_App.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\First Decktop App\First Decktop App\obj\Debug\First_Decktop_App.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\First Decktop App\First Decktop App\obj\Debug\First Decktop App.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\First Decktop App\First Decktop App\obj\Debug\First Decktop App.exe
+C:\Users\nikit\OneDrive\My Projects\First Decktop App\First Decktop App\obj\Debug\First Decktop App.pdb

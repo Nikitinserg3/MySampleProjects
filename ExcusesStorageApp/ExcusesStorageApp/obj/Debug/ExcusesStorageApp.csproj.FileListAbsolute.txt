@@ -1,0 +1,9 @@
+C:\Users\nikit\OneDrive\My Projects\ExcusesStorageApp\ExcusesStorageApp\bin\Debug\ExcusesStorageApp.exe.config
+C:\Users\nikit\OneDrive\My Projects\ExcusesStorageApp\ExcusesStorageApp\bin\Debug\ExcusesStorageApp.exe
+C:\Users\nikit\OneDrive\My Projects\ExcusesStorageApp\ExcusesStorageApp\bin\Debug\ExcusesStorageApp.pdb
+C:\Users\nikit\OneDrive\My Projects\ExcusesStorageApp\ExcusesStorageApp\obj\Debug\ExcusesStorageApp.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\ExcusesStorageApp\ExcusesStorageApp\obj\Debug\ExcusesStorageApp.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\ExcusesStorageApp\ExcusesStorageApp\obj\Debug\ExcusesStorageApp.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\ExcusesStorageApp\ExcusesStorageApp\obj\Debug\ExcusesStorageApp.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\ExcusesStorageApp\ExcusesStorageApp\obj\Debug\ExcusesStorageApp.exe
+C:\Users\nikit\OneDrive\My Projects\ExcusesStorageApp\ExcusesStorageApp\obj\Debug\ExcusesStorageApp.pdb

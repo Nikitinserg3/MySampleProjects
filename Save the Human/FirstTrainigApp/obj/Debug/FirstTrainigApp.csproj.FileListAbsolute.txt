@@ -1,0 +1,96 @@
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\App.xbf
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\MainPage.xbf
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\FirstTrainigApp.xr.xml
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\FirstTrainigApp.exe
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\FirstTrainigApp.pdb
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\resources.pri
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\AppxManifest.xml
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\FirstTrainigApp.build.appxrecipe
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\App.g.i.cs
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\App.g.cs
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\MainPage.g.i.cs
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\MainPage.g.cs
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\XamlTypeInfo.g.cs
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\App.xaml
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\MainPage.xaml
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\App.xbf
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\MainPage.xbf
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\XamlSaveStateFile.xml
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\FirstTrainigApp.exe
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\FirstTrainigApp.pdb
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\priconfig.xml
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\priconfig.xml.intermediate
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\layout.resfiles
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\layout.resfiles.intermediate
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\resources.resfiles
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\resources.resfiles.intermediate
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\pri.resfiles
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\pri.resfiles.intermediate
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\qualifiers.txt
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\qualifiers.txt.intermediate
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\My stuff\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\App.xbf
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\MainPage.xbf
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\FirstTrainigApp.xr.xml
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\FirstTrainigApp.exe
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\FirstTrainigApp.pdb
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\resources.pri
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\AppxManifest.xml
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\bin\Debug\FirstTrainigApp.build.appxrecipe
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\App.g.i.cs
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\App.g.cs
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\MainPage.g.i.cs
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\MainPage.g.cs
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\App.xaml
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\MainPage.xaml
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\App.xbf
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\MainPage.xbf
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\FirstTrainigApp.exe
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\FirstTrainigApp.pdb
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\priconfig.xml
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\layout.resfiles
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\resources.resfiles
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\pri.resfiles
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\qualifiers.txt
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nikit\OneDrive\My Projects\FirstTrainigApp\FirstTrainigApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\bin\Debug\App.xbf
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\bin\Debug\MainPage.xbf
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\bin\Debug\FirstTrainigApp.xr.xml
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\bin\Debug\FirstTrainigApp.exe
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\bin\Debug\FirstTrainigApp.pdb
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\bin\Debug\resources.pri
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\bin\Debug\AppxManifest.xml
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\bin\Debug\FirstTrainigApp.build.appxrecipe
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\App.g.i.cs
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\App.g.cs
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\MainPage.g.i.cs
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\MainPage.g.cs
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\App.xaml
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\MainPage.xaml
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\App.xbf
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\MainPage.xbf
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\FirstTrainigApp.exe
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\FirstTrainigApp.pdb
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\priconfig.xml
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\layout.resfiles
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\resources.resfiles
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\pri.resfiles
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\qualifiers.txt
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nikit\OneDrive\My Projects\Save the Human\FirstTrainigApp\obj\Debug\ProjectArchitectures.txt

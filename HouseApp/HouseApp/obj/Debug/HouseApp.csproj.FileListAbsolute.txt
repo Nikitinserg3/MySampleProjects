@@ -1,0 +1,9 @@
+C:\Users\nikit\OneDrive\My Projects\HouseApp\HouseApp\bin\Debug\HouseApp.exe.config
+C:\Users\nikit\OneDrive\My Projects\HouseApp\HouseApp\bin\Debug\HouseApp.exe
+C:\Users\nikit\OneDrive\My Projects\HouseApp\HouseApp\bin\Debug\HouseApp.pdb
+C:\Users\nikit\OneDrive\My Projects\HouseApp\HouseApp\obj\Debug\HouseApp.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\HouseApp\HouseApp\obj\Debug\HouseApp.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\HouseApp\HouseApp\obj\Debug\HouseApp.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\HouseApp\HouseApp\obj\Debug\HouseApp.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\HouseApp\HouseApp\obj\Debug\HouseApp.exe
+C:\Users\nikit\OneDrive\My Projects\HouseApp\HouseApp\obj\Debug\HouseApp.pdb

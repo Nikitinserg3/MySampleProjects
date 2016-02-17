@@ -1,0 +1,8 @@
+C:\Users\nikit\OneDrive\My Projects\Practice2\Practice2\bin\Debug\Practice2.exe.config
+C:\Users\nikit\OneDrive\My Projects\Practice2\Practice2\obj\Debug\Practice2.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\Practice2\Practice2\obj\Debug\Practice2.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\Practice2\Practice2\obj\Debug\Practice2.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\Practice2\Practice2\bin\Debug\Practice2.exe
+C:\Users\nikit\OneDrive\My Projects\Practice2\Practice2\bin\Debug\Practice2.pdb
+C:\Users\nikit\OneDrive\My Projects\Practice2\Practice2\obj\Debug\Practice2.exe
+C:\Users\nikit\OneDrive\My Projects\Practice2\Practice2\obj\Debug\Practice2.pdb

@@ -1,0 +1,8 @@
+C:\Users\nikit\OneDrive\My Projects\CardsApp\FiveCardSelector\bin\Debug\FiveCardSelector.exe.config
+C:\Users\nikit\OneDrive\My Projects\CardsApp\FiveCardSelector\obj\Debug\FiveCardSelector.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\CardsApp\FiveCardSelector\bin\Debug\FiveCardSelector.exe
+C:\Users\nikit\OneDrive\My Projects\CardsApp\FiveCardSelector\bin\Debug\FiveCardSelector.pdb
+C:\Users\nikit\OneDrive\My Projects\CardsApp\FiveCardSelector\bin\Debug\CardsApp.exe
+C:\Users\nikit\OneDrive\My Projects\CardsApp\FiveCardSelector\bin\Debug\CardsApp.pdb
+C:\Users\nikit\OneDrive\My Projects\CardsApp\FiveCardSelector\obj\Debug\FiveCardSelector.exe
+C:\Users\nikit\OneDrive\My Projects\CardsApp\FiveCardSelector\obj\Debug\FiveCardSelector.pdb

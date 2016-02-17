@@ -1,0 +1,9 @@
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculator\PenaltyCalculator\bin\Release\PenaltyCalculator.exe.config
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculator\PenaltyCalculator\bin\Release\PenaltyCalculator.exe
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculator\PenaltyCalculator\bin\Release\PenaltyCalculator.pdb
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculator\PenaltyCalculator\obj\Release\PenaltyCalculator.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculator\PenaltyCalculator\obj\Release\PenaltyCalculator.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculator\PenaltyCalculator\obj\Release\PenaltyCalculator.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculator\PenaltyCalculator\obj\Release\PenaltyCalculator.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculator\PenaltyCalculator\obj\Release\PenaltyCalculator.exe
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculator\PenaltyCalculator\obj\Release\PenaltyCalculator.pdb

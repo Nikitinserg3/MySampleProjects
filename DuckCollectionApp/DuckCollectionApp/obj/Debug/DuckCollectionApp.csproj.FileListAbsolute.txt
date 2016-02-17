@@ -1,0 +1,6 @@
+C:\Users\nikit\OneDrive\My Projects\DuckCollectionApp\DuckCollectionApp\bin\Debug\DuckCollectionApp.exe.config
+C:\Users\nikit\OneDrive\My Projects\DuckCollectionApp\DuckCollectionApp\bin\Debug\DuckCollectionApp.exe
+C:\Users\nikit\OneDrive\My Projects\DuckCollectionApp\DuckCollectionApp\bin\Debug\DuckCollectionApp.pdb
+C:\Users\nikit\OneDrive\My Projects\DuckCollectionApp\DuckCollectionApp\obj\Debug\DuckCollectionApp.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\DuckCollectionApp\DuckCollectionApp\obj\Debug\DuckCollectionApp.exe
+C:\Users\nikit\OneDrive\My Projects\DuckCollectionApp\DuckCollectionApp\obj\Debug\DuckCollectionApp.pdb

@@ -1,0 +1,5 @@
+C:\Users\nikit\OneDrive\My Projects\GoFishCardGame\GoFishCardGame\bin\Debug\GoFishCardGame.exe.config
+C:\Users\nikit\OneDrive\My Projects\GoFishCardGame\GoFishCardGame\obj\Debug\GoFishCardGame.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\GoFishCardGame\GoFishCardGame\obj\Debug\GoFishCardGame.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\GoFishCardGame\GoFishCardGame\obj\Debug\GoFishCardGame.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\GoFishCardGame\GoFishCardGame\obj\Debug\GoFishCardGame.csproj.GenerateResource.Cache

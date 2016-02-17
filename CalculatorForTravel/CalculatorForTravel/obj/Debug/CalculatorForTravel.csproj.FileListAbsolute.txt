@@ -1,0 +1,9 @@
+C:\Users\nikit\OneDrive\My Projects\CalculatorForTravel\CalculatorForTravel\bin\Debug\CalculatorForTravel.exe.config
+C:\Users\nikit\OneDrive\My Projects\CalculatorForTravel\CalculatorForTravel\obj\Debug\CalculatorForTravel.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\CalculatorForTravel\CalculatorForTravel\obj\Debug\CalculatorForTravel.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\CalculatorForTravel\CalculatorForTravel\obj\Debug\CalculatorForTravel.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\CalculatorForTravel\CalculatorForTravel\obj\Debug\CalculatorForTravel.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\CalculatorForTravel\CalculatorForTravel\bin\Debug\CalculatorForTravel.exe
+C:\Users\nikit\OneDrive\My Projects\CalculatorForTravel\CalculatorForTravel\bin\Debug\CalculatorForTravel.pdb
+C:\Users\nikit\OneDrive\My Projects\CalculatorForTravel\CalculatorForTravel\obj\Debug\CalculatorForTravel.exe
+C:\Users\nikit\OneDrive\My Projects\CalculatorForTravel\CalculatorForTravel\obj\Debug\CalculatorForTravel.pdb

@@ -1,0 +1,9 @@
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculatorLite\PenaltyCalculatorLite\bin\Debug\PenaltyCalculatorLite.exe.config
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculatorLite\PenaltyCalculatorLite\bin\Debug\PenaltyCalculatorLite.exe
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculatorLite\PenaltyCalculatorLite\bin\Debug\PenaltyCalculatorLite.pdb
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculatorLite\PenaltyCalculatorLite\obj\Debug\PenaltyCalculatorLite.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculatorLite\PenaltyCalculatorLite\obj\Debug\PenaltyCalculatorLite.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculatorLite\PenaltyCalculatorLite\obj\Debug\PenaltyCalculatorLite.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculatorLite\PenaltyCalculatorLite\obj\Debug\PenaltyCalculatorLite.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculatorLite\PenaltyCalculatorLite\obj\Debug\PenaltyCalculatorLite.exe
+C:\Users\nikit\OneDrive\My Projects\PenaltyCalculatorLite\PenaltyCalculatorLite\obj\Debug\PenaltyCalculatorLite.pdb

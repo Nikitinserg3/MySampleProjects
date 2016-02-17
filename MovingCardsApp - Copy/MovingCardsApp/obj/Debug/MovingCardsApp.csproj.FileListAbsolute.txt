@@ -1,0 +1,18 @@
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp\MovingCardsApp\bin\Debug\MovingCardsApp.exe.config
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp\MovingCardsApp\bin\Debug\MovingCardsApp.exe
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp\MovingCardsApp\bin\Debug\MovingCardsApp.pdb
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp\MovingCardsApp\obj\Debug\MovingCardsApp.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp\MovingCardsApp\obj\Debug\MovingCardsApp.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp\MovingCardsApp\obj\Debug\MovingCardsApp.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp\MovingCardsApp\obj\Debug\MovingCardsApp.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp\MovingCardsApp\obj\Debug\MovingCardsApp.exe
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp\MovingCardsApp\obj\Debug\MovingCardsApp.pdb
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp - Copy\MovingCardsApp\bin\Debug\MovingCardsApp.exe.config
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp - Copy\MovingCardsApp\obj\Debug\MovingCardsApp.exe
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp - Copy\MovingCardsApp\obj\Debug\MovingCardsApp.pdb
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp - Copy\MovingCardsApp\obj\Debug\MovingCardsApp.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp - Copy\MovingCardsApp\obj\Debug\MovingCardsApp.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp - Copy\MovingCardsApp\obj\Debug\MovingCardsApp.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp - Copy\MovingCardsApp\obj\Debug\MovingCardsApp.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp - Copy\MovingCardsApp\bin\Debug\MovingCardsApp.exe
+C:\Users\nikit\OneDrive\My Projects\MovingCardsApp - Copy\MovingCardsApp\bin\Debug\MovingCardsApp.pdb

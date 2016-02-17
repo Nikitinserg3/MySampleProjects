@@ -1,0 +1,6 @@
+C:\Users\nikit\OneDrive\My Projects\BasicLegacyLesson\BasicLegacyLesson\bin\Debug\BasicLegacyLesson.exe.config
+C:\Users\nikit\OneDrive\My Projects\BasicLegacyLesson\BasicLegacyLesson\obj\Debug\BasicLegacyLesson.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\BasicLegacyLesson\BasicLegacyLesson\bin\Debug\BasicLegacyLesson.exe
+C:\Users\nikit\OneDrive\My Projects\BasicLegacyLesson\BasicLegacyLesson\bin\Debug\BasicLegacyLesson.pdb
+C:\Users\nikit\OneDrive\My Projects\BasicLegacyLesson\BasicLegacyLesson\obj\Debug\BasicLegacyLesson.exe
+C:\Users\nikit\OneDrive\My Projects\BasicLegacyLesson\BasicLegacyLesson\obj\Debug\BasicLegacyLesson.pdb

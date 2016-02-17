@@ -1,0 +1,9 @@
+C:\Users\nikit\OneDrive\My Projects\CardsApp\CardsApp\bin\Debug\CardsApp.exe.config
+C:\Users\nikit\OneDrive\My Projects\CardsApp\CardsApp\obj\Debug\CardsApp.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\CardsApp\CardsApp\obj\Debug\CardsApp.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\CardsApp\CardsApp\obj\Debug\CardsApp.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\CardsApp\CardsApp\obj\Debug\CardsApp.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\CardsApp\CardsApp\bin\Debug\CardsApp.exe
+C:\Users\nikit\OneDrive\My Projects\CardsApp\CardsApp\bin\Debug\CardsApp.pdb
+C:\Users\nikit\OneDrive\My Projects\CardsApp\CardsApp\obj\Debug\CardsApp.exe
+C:\Users\nikit\OneDrive\My Projects\CardsApp\CardsApp\obj\Debug\CardsApp.pdb

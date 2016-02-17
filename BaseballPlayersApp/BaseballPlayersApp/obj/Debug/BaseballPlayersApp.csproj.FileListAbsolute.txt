@@ -1,0 +1,12 @@
+C:\Users\nikit\OneDrive\My Projects\BaseballPlayersApp\BaseballPlayersApp\bin\Debug\BaseballPlayersApp.exe.config
+C:\Users\nikit\OneDrive\My Projects\BaseballPlayersApp\BaseballPlayersApp\bin\Debug\BaseballPlayersApp.exe
+C:\Users\nikit\OneDrive\My Projects\BaseballPlayersApp\BaseballPlayersApp\bin\Debug\BaseballPlayersApp.pdb
+C:\Users\nikit\OneDrive\My Projects\BaseballPlayersApp\BaseballPlayersApp\obj\Debug\BaseballPlayersApp.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\BaseballPlayersApp\BaseballPlayersApp\obj\Debug\BaseballPlayersApp.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\BaseballPlayersApp\BaseballPlayersApp\obj\Debug\BaseballPlayersApp.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\BaseballPlayersApp\BaseballPlayersApp\obj\Debug\BaseballPlayersApp.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\BaseballPlayersApp\BaseballPlayersApp\obj\Debug\BaseballPlayersApp.exe
+C:\Users\nikit\OneDrive\My Projects\BaseballPlayersApp\BaseballPlayersApp\obj\Debug\BaseballPlayersApp.pdb
+C:\Projects\BaseballPlayersApp\BaseballPlayersApp\bin\Debug\BaseballPlayersApp.exe.config
+C:\Projects\BaseballPlayersApp\BaseballPlayersApp\obj\Debug\BaseballPlayersApp.exe
+C:\Projects\BaseballPlayersApp\BaseballPlayersApp\obj\Debug\BaseballPlayersApp.pdb

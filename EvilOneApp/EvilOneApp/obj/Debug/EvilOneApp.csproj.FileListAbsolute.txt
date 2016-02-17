@@ -1,0 +1,6 @@
+C:\Users\nikit\OneDrive\My Projects\EvilOneApp\EvilOneApp\bin\Debug\EvilOneApp.exe.config
+C:\Users\nikit\OneDrive\My Projects\EvilOneApp\EvilOneApp\bin\Debug\EvilOneApp.exe
+C:\Users\nikit\OneDrive\My Projects\EvilOneApp\EvilOneApp\bin\Debug\EvilOneApp.pdb
+C:\Users\nikit\OneDrive\My Projects\EvilOneApp\EvilOneApp\obj\Debug\EvilOneApp.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\EvilOneApp\EvilOneApp\obj\Debug\EvilOneApp.exe
+C:\Users\nikit\OneDrive\My Projects\EvilOneApp\EvilOneApp\obj\Debug\EvilOneApp.pdb

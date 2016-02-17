@@ -1,0 +1,64 @@
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\App.xbf
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\MainPage.xbf
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\SecondImportantApp.xr.xml
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\SecondImportantApp.exe
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\SecondImportantApp.pdb
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\resources.pri
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\AppxManifest.xml
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\SecondImportantApp.build.appxrecipe
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\App.g.i.cs
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\App.g.cs
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\MainPage.g.i.cs
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\MainPage.g.cs
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\XamlTypeInfo.g.cs
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\App.xaml
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\App.xbf
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\XamlSaveStateFile.xml
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\MainPage.xaml
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\MainPage.xbf
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\SecondImportantApp.exe
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\SecondImportantApp.pdb
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\priconfig.xml
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\priconfig.xml.intermediate
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\layout.resfiles
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\layout.resfiles.intermediate
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\resources.resfiles
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\resources.resfiles.intermediate
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\pri.resfiles
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\pri.resfiles.intermediate
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\qualifiers.txt
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\qualifiers.txt.intermediate
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\My stuff\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\App.xbf
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\MainPage.xbf
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\SecondImportantApp.xr.xml
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\SecondImportantApp.exe
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\SecondImportantApp.pdb
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\resources.pri
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\AppxManifest.xml
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\SecondImportantApp.build.appxrecipe
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\App.g.i.cs
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\App.g.cs
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\MainPage.g.i.cs
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\MainPage.g.cs
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\App.xaml
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\MainPage.xaml
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\App.xbf
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\MainPage.xbf
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\SecondImportantApp.exe
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\SecondImportantApp.pdb
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\priconfig.xml
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\layout.resfiles
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\resources.resfiles
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\pri.resfiles
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\qualifiers.txt
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\ProjectArchitectures.txt

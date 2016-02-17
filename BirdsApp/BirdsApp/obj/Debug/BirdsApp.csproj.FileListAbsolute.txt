@@ -1,0 +1,6 @@
+C:\Users\nikit\OneDrive\My Projects\BirdsApp\BirdsApp\bin\Debug\BirdsApp.exe.config
+C:\Users\nikit\OneDrive\My Projects\BirdsApp\BirdsApp\bin\Debug\BirdsApp.exe
+C:\Users\nikit\OneDrive\My Projects\BirdsApp\BirdsApp\bin\Debug\BirdsApp.pdb
+C:\Users\nikit\OneDrive\My Projects\BirdsApp\BirdsApp\obj\Debug\BirdsApp.exe
+C:\Users\nikit\OneDrive\My Projects\BirdsApp\BirdsApp\obj\Debug\BirdsApp.pdb
+C:\Users\nikit\OneDrive\My Projects\BirdsApp\BirdsApp\obj\Debug\BirdsApp.csprojResolveAssemblyReference.cache

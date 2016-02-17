@@ -1,0 +1,14 @@
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\bin\Debug\GoFishGameRemake.exe.config
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\obj\Debug\GoFishGameRemake.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\obj\Debug\App.g.cs
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\obj\Debug\GoFishGameRemake_MarkupCompile.cache
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\bin\Debug\GoFishGameRemake.exe
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\bin\Debug\GoFishGameRemake.pdb
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\obj\Debug\MainWindow.g.cs
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\obj\Debug\GoFishGameRemake_MarkupCompile.lref
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\obj\Debug\MainWindow.baml
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\obj\Debug\GoFishGameRemake.g.resources
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\obj\Debug\GoFishGameRemake.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\obj\Debug\GoFishGameRemake.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\obj\Debug\GoFishGameRemake.exe
+C:\Users\nikit\OneDrive\My Projects\GoFishGameRemake\GoFishGameRemake\obj\Debug\GoFishGameRemake.pdb

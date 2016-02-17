@@ -1,0 +1,9 @@
+C:\Users\nikit\OneDrive\My Projects\FarmerApp\FarmerApp\bin\Debug\FarmerApp.exe.config
+C:\Users\nikit\OneDrive\My Projects\FarmerApp\FarmerApp\bin\Debug\FarmerApp.exe
+C:\Users\nikit\OneDrive\My Projects\FarmerApp\FarmerApp\bin\Debug\FarmerApp.pdb
+C:\Users\nikit\OneDrive\My Projects\FarmerApp\FarmerApp\obj\Debug\FarmerApp.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\FarmerApp\FarmerApp\obj\Debug\FarmerApp.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\FarmerApp\FarmerApp\obj\Debug\FarmerApp.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\FarmerApp\FarmerApp\obj\Debug\FarmerApp.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\FarmerApp\FarmerApp\obj\Debug\FarmerApp.exe
+C:\Users\nikit\OneDrive\My Projects\FarmerApp\FarmerApp\obj\Debug\FarmerApp.pdb

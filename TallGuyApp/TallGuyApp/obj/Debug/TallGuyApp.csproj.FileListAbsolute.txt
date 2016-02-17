@@ -1,0 +1,6 @@
+C:\Users\nikit\OneDrive\My Projects\TallGuyApp\TallGuyApp\bin\Debug\TallGuyApp.exe.config
+C:\Users\nikit\OneDrive\My Projects\TallGuyApp\TallGuyApp\bin\Debug\TallGuyApp.exe
+C:\Users\nikit\OneDrive\My Projects\TallGuyApp\TallGuyApp\bin\Debug\TallGuyApp.pdb
+C:\Users\nikit\OneDrive\My Projects\TallGuyApp\TallGuyApp\obj\Debug\TallGuyApp.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\TallGuyApp\TallGuyApp\obj\Debug\TallGuyApp.exe
+C:\Users\nikit\OneDrive\My Projects\TallGuyApp\TallGuyApp\obj\Debug\TallGuyApp.pdb

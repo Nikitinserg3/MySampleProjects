@@ -1,0 +1,6 @@
+C:\Users\nikit\OneDrive\My Projects\ListTrainingApp\ListTrainingApp\bin\Debug\ListTrainingApp.exe.config
+C:\Users\nikit\OneDrive\My Projects\ListTrainingApp\ListTrainingApp\bin\Debug\ListTrainingApp.exe
+C:\Users\nikit\OneDrive\My Projects\ListTrainingApp\ListTrainingApp\bin\Debug\ListTrainingApp.pdb
+C:\Users\nikit\OneDrive\My Projects\ListTrainingApp\ListTrainingApp\obj\Debug\ListTrainingApp.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\ListTrainingApp\ListTrainingApp\obj\Debug\ListTrainingApp.exe
+C:\Users\nikit\OneDrive\My Projects\ListTrainingApp\ListTrainingApp\obj\Debug\ListTrainingApp.pdb

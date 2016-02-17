@@ -1,0 +1,9 @@
+C:\Users\nikit\OneDrive\My Projects\OpenAndSaveApp\OpenAndSaveApp\bin\Debug\OpenAndSaveApp.exe.config
+C:\Users\nikit\OneDrive\My Projects\OpenAndSaveApp\OpenAndSaveApp\bin\Debug\OpenAndSaveApp.exe
+C:\Users\nikit\OneDrive\My Projects\OpenAndSaveApp\OpenAndSaveApp\bin\Debug\OpenAndSaveApp.pdb
+C:\Users\nikit\OneDrive\My Projects\OpenAndSaveApp\OpenAndSaveApp\obj\Debug\OpenAndSaveApp.csprojResolveAssemblyReference.cache
+C:\Users\nikit\OneDrive\My Projects\OpenAndSaveApp\OpenAndSaveApp\obj\Debug\OpenAndSaveApp.Form1.resources
+C:\Users\nikit\OneDrive\My Projects\OpenAndSaveApp\OpenAndSaveApp\obj\Debug\OpenAndSaveApp.Properties.Resources.resources
+C:\Users\nikit\OneDrive\My Projects\OpenAndSaveApp\OpenAndSaveApp\obj\Debug\OpenAndSaveApp.csproj.GenerateResource.Cache
+C:\Users\nikit\OneDrive\My Projects\OpenAndSaveApp\OpenAndSaveApp\obj\Debug\OpenAndSaveApp.exe
+C:\Users\nikit\OneDrive\My Projects\OpenAndSaveApp\OpenAndSaveApp\obj\Debug\OpenAndSaveApp.pdb

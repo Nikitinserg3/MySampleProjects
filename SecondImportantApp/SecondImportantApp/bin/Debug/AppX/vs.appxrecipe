@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KEELMAINPC</Machine>
+    <WindowsUser>nikit</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c4be03eb-19ed-4277-9d1d-1ca262dc87b3</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>AD3B5000A0EB8AED282354CDA0717A9F4B9E9E4F4E6640CD3482F05A59AA5CD5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c4be03eb-19ed-4277-9d1d-1ca262dc87b3_1.0.0.0_neutral__e0czjm4dkbe7e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c4be03eb-19ed-4277-9d1d-1ca262dc87b3_e0czjm4dkbe7e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c4be03eb-19ed-4277-9d1d-1ca262dc87b3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=nikit</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-10T15:54:44.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\SecondImportantApp.exe">
+      <PackagePath>SecondImportantApp.exe</PackagePath>
+      <Modified>2015-11-24T12:46:53.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\SecondImportantApp.xr.xml">
+      <PackagePath>SecondImportantApp.xr.xml</PackagePath>
+      <Modified>2015-08-10T15:56:01.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-08-10T15:54:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-08-11T15:03:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\OneDrive\My Projects\SecondImportantApp\SecondImportantApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-10T15:54:44.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
