@@ -10,3 +10,6 @@ C:\Users\nikit\OneDrive\My Projects\BaseballPlayersApp\BaseballPlayersApp\obj\De
 C:\Projects\BaseballPlayersApp\BaseballPlayersApp\bin\Debug\BaseballPlayersApp.exe.config
 C:\Projects\BaseballPlayersApp\BaseballPlayersApp\obj\Debug\BaseballPlayersApp.exe
 C:\Projects\BaseballPlayersApp\BaseballPlayersApp\obj\Debug\BaseballPlayersApp.pdb
+C:\Projects\MySampleProjects\BaseballPlayersApp\BaseballPlayersApp\bin\Debug\BaseballPlayersApp.exe.config
+C:\Projects\MySampleProjects\BaseballPlayersApp\BaseballPlayersApp\obj\Debug\BaseballPlayersApp.exe
+C:\Projects\MySampleProjects\BaseballPlayersApp\BaseballPlayersApp\obj\Debug\BaseballPlayersApp.pdb
